@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]>=21.0
+httpx>=0.27
+icalendar>=6.0
+recurring-ical-events>=3.3
+python-dotenv>=1.0
